@@ -2,7 +2,7 @@
 
 1- Press Windows + R key ( or windows search since both work )
 
-2- Type in %appdata%\.minecraft\saves
+2- Type in %appdata% then go to .minecraft and then saves.
 
 3- Choose the world you wanna use the pack on.
 
