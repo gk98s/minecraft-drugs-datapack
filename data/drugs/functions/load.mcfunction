@@ -1,0 +1,1 @@
+tellraw @a {"text": "This pack is still in development, please tell your suggestions to me on github/gk98s.", "color": "#0000FF"}

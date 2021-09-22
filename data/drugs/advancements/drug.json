@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:stone"
+      },
+      "title": "",
+      "description": "",
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "criteria": {
+      "Drug": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:beetroot"
+            ],
+            "enchantments": [
+              {
+                "enchantment": "minecraft:infinity"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "drugs:drugused"
+    }
+  }
+  
