@@ -1,0 +1,1 @@
+tellraw @a {"text": "The pack is still under development. The drugs are not obtainable in survival mode for now. You can still obtain them by the command on my github. Also feel free to post your suggestions at github/gk98s.", "color": "#0000FF"}

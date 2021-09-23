@@ -1,0 +1,1 @@
+execute as @e[scores={DrugUsed=1..}] run function drugs:drugused
